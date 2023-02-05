@@ -1,0 +1,2 @@
+# separationdegrees
+Separation between actors 
